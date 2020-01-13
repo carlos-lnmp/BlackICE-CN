@@ -1,0 +1,9 @@
+﻿l_english:
+ is_controlled_by_ROOT_or_ally:0 "受§H[Root.GetNameDef]§!或他们的一个盟友控制。"
+ is_controlled_by_ROOT_or_subject:0 "受§H[Root.GetNameDef]§!或他们的一个附庸控制。"
+ is_owned_by_ROOT_or_ally:0 "属于§H[Root.GetNameDef]§!或他们的一个盟友。"
+ is_owned_by_ROOT_or_subject:0 "属于§H[Root.GetNameDef]§!或他们的一个附庸。"
+ is_controlled_by_PREV_or_ally:0 "受§H[Prev.GetNameDef]§!或他们的一个盟友控制。"
+ is_controlled_by_PREV_or_subject:0 "受§H[Prev.GetNameDef]§!或他们的一个附庸控制。"
+ is_owned_by_PREV_or_ally:0 "属于§H[Prev.GetNameDef]§!或他们的一个盟友。"
+ is_owned_by_PREV_or_subject:0 "属于§H[Prev.GetNameDef]§!或他们的一个附庸。"

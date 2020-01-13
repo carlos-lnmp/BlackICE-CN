@@ -1,0 +1,15 @@
+﻿l_english:
+ unlock_ability_TT:0 "解锁 §Y能力§!："
+ ABILITY_ADAPTIVE:0 "不惜一切代价"
+ ABILITY_ADAPTIVE_TOOLTIP:0 "不惜一切代价（$LEADER$）"
+ ABILITY_ADAPTIVE_DESC:0 "你的军队将忽略大部分地形处罚并获得小额进攻加成，同时遭受更多的损耗和伤害。"
+ ITA_ADAPTIVE_TT:0 "获得能力 §G不惜一切代价§! 可以忽略大部分的地形惩罚并获得一小点进攻加成，但同时稍微遭受更多的损耗和伤害"
+ ABILITY_ENCIRCLEMENT_BREAKOUT:0 "突破包围"
+ ABILITY_ENCIRCLEMENT_BREAKOUT_TOOLTIP:0 "突破包围 ($LEADER$)"
+ ABILITY_ABILITY_ENCIRCLEMENT_BREAKOUT_DESC:0 "你的部队将准备从他们悲惨的处境中突围。"
+ makeshift_bridges_trigger_TT:0 "£trigger_no 需要25座架桥设备和突击艇才能启动。\n     指挥点数的消耗将随着触发器的实现而降低"
+ 
+ 
+ 
+ 
+ 

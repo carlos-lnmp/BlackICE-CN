@@ -1,0 +1,18 @@
+﻿l_english:
+ #BICE version #
+ BICE_version:0 "Black ICE 4.1.5"
+ # MISC #
+ TITLE_COMING_SOON:0 "COMING SOON"
+ subunit_1:0 "Updates the need for new equipment-types"
+ # WEB-links #
+ MENU_BICE_ARCHIVE:0 "Black ICE Version Archives (https://forum.paradoxplaza.com/forum/index.php?threads/version-archive-blackice.1062386/#post-24376573)"
+ MENU_BICE_WIKI:0 "Black ICE Wiki (https://black-ice-hearts-of-iron-iv.wikia.com/)"
+ MENU_BICE_FORUM:0 "Black ICE Forum (https://forum.paradoxplaza.com/forum/index.php?forums/blackice-user-mod.966/)"
+ MENU_BICE_FACEBOOK:0 "Black ICE Facebook (https://www.facebook.com/Black-ICE-Mod-for-Hearts-Of-Iron-3-and-IV-362588367155410/)"
+ MENU_BICE_TWITTER:0 "Black ICE Twitter (https://twitter.com/BlackICEMod)"
+ MENU_BICE_DISCORD:0 "Black ICE Discord Server (https://discord.gg/kYYbrAA)"
+ MENU_BICE_YOUTUBE:0 "Black ICE YouTube Channel (https://www.youtube.com/channel/UCeAzGKQU11mH-AcyND3wLIw)"
+ # Starting event #
+ blackiceevents.150.t:0 "Welcome to BLACK ICE 4.1.5 (HOI4 1.8.1)"
+ blackiceevents.150.desc:0 "This version 4.1.5 includes many reported bug-fixes and a custom-counter rework of the first 4 colors(White/Urban/Black/Orange). Lots of reported bugs have been fixed for AI, Air, Land and Naval. Check the changelog on the Workshop page for more detailled changes."
+

@@ -1,0 +1,40 @@
+﻿l_english:
+
+	############################
+			#### COUNTRIE NAMES ####
+	############################
+ 
+ FRI_conservatism:0 "印度支那共和国"
+ FRI_conservatism_ADJ:0 "印度支那"
+ FRI_conservatism_DEF:0 "印度支那共和国"
+ FRI_liberalism:0 "印度支那共和国"
+ FRI_liberalism_ADJ:0 "印度支那"
+ FRI_liberalism_DEF:0 "印度支那共和国"
+ FRI_socialism:0 "印度支那共和国"
+ FRI_socialism_ADJ:0 "印度支那"
+ FRI_socialism_DEF:0 "印度支那共和国"
+
+ TUN_conservatism:0 "突尼斯共和国"
+ TUN_conservatism_DEF:0 "突尼斯共和国"
+ TUN_liberalism:0 "突尼斯共和国"
+ TUN_liberalism_DEF:0 "突尼斯共和国"
+ TUN_socialism:0 "突尼斯共和国"
+ TUN_socialism_DEF:0 "突尼斯共和国"
+ TUN_conservatism_ADJ:0 "突尼斯"
+ TUN_liberalism_ADJ:0 "突尼斯"
+ TUN_socialism_ADJ:0 "突尼斯"
+ 
+	############################
+					#### PARTIES ####
+	############################
+	
+ TUN_neutrality_party:0 "侯赛因王朝"
+
+
+	############################
+				#### EQUIPMENT ####
+	############################
+ FRI_support_weapons:0 "绍沙轻机枪&斯托克斯迫击炮"
+ FRI_support_weapons2:0 "哈奇开斯M1914型机枪&勃朗特M1935型迫击炮"
+ FRI_support_weapons3:0 "24/29轻机枪&勃朗特27/31型迫击炮"
+ FRI_support_weapons4:0 "哈奇开斯M1922型机枪&勃朗特M1942型迫击炮"
