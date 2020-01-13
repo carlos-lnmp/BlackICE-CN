@@ -14,5 +14,5 @@
  MENU_BICE_YOUTUBE:0 "Black ICE YouTube Channel (https://www.youtube.com/channel/UCeAzGKQU11mH-AcyND3wLIw)"
  # Starting event #
  blackiceevents.150.t:0 "Welcome to BLACK ICE 4.1.5 (HOI4 1.8.1)"
- blackiceevents.150.desc:0 "This version 4.1.5 includes many reported bug-fixes and a custom-counter rework of the first 4 colors(White/Urban/Black/Orange). Lots of reported bugs have been fixed for AI, Air, Land and Naval. Check the changelog on the Workshop page for more detailled changes."
+ blackiceevents.150.desc:0 "此版本4.1.5包含许多已报告的错误修复程序以及前4种颜色（白色/城市/黑色/橙色）的自定义计数器返工。 已修复了许多针对AI，空中，陆地和海军的错误报告。 检查“工作坊”页面上的变更日志，以获取更详细的更改。"
 
